@@ -1,0 +1,43 @@
+body {
+  font-family: 'Inter', Arial, sans-serif;
+  background: #fbfbfb;
+  color: #23272f;
+}
+
+h1, h2, h4, .fw-bold {
+  font-weight: 900;
+  letter-spacing: -1px;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.card, .rounded-4 {
+  border-radius: 1rem !important;
+}
+
+/* Button stylings */
+.btn-dark, .btn-outline-dark {
+  border-radius: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+footer {
+  font-size: 0.95rem;
+}
+
+@media (max-width: 767px) {
+  h1, .display-5 {
+    font-size: 2rem;
+  }
+  .hero-section {
+    padding: 2rem 0 !important;
+    text-align: center;
+  }
+  .container, .container-fluid {
+    padding: 0 1rem;
+  }
+}
