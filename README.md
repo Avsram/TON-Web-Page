@@ -18,7 +18,7 @@ Replicate the "TON Web Page" reference UI as a responsive webpage using HTML, CS
 
 ## Live Demo
 
-[View here](#) <!-- https://ton-web-page-iota.vercel.app/ -->
+[View here](#) <!--(https://drive.google.com/file/d/1akYYb0Q-cOgob_OPMZ_OCyuBvkwNgLdN/view?usp=sharing) -->
 
 ## Credits
 
